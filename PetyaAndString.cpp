@@ -24,7 +24,6 @@ int main(){
 	
 	}
 
-	// write something.
 }
 
 
